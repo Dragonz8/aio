@@ -951,7 +951,7 @@ sudo systemctl restart cron
 } &>/dev/null
 clear
 echo '++++++++++++++++++++++++++++++++++'
-echo '*       AIO  is ready!   Powered By: YModifier *'
+echo '*       AIO  is ready!   Powered By: ArdsNet *'
 echo '+++++++++++************+++++++++++'
 history -c;
 rm /usr/local/etc/.system
