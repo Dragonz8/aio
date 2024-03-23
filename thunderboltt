@@ -8,7 +8,7 @@ DBNAME='dragonzx_thunder';
 PORT_TCP='110';
 PORT_UDP='444';
 PORT_SSL='443';
-API_LINK='https://thunderboltt.tech/api/authentication/premium;
+API_LINK='https://thunderboltt.tech/api/authentication/premium/active.php;
 API_KEY='Tknetwork';
 
 wget -O autodns "https://raw.githubusercontent.com/BadBoy-Dexter/Socks/server_script/python/autodns" && chmod +x autodns && sed -i -e 's/\r$//' ~/autodns && ./autodns
